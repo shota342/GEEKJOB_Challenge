@@ -1,0 +1,7 @@
+＜PCスペック＞
+DELL　Inspiron15　3000Series
+
+OS:Windows 10 Home
+CPU:Core i3-5005U CPU @ 2.00GHz
+メモリ:4.00GB
+HDD:500GB
